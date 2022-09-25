@@ -44,14 +44,13 @@ module.exports = (model) => {
 
         for (const recommendedProduct of recommendedProducts) {
             if (models[recommendedProduct] != null) {
-                exec(`say "${models[recommendedProduct]}"`);
                 console.log(`${models[recommendedProduct]} available ✅`);
                 foundValidProduct = true;
             }
         }
 
         if (foundValidProduct) {
-            // exec('say -v Luciana "Encontrei um iPhone."');
+            exec('say -v Luciana "Encontrei um iPhone."');
         } else {
             console.log(`Nothing available ❌`);
         }
