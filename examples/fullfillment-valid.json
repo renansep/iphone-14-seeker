@@ -1,0 +1,2696 @@
+{
+    "head": {
+        "status": "200",
+        "data": {}
+    },
+    "body": {
+        "content": {
+            "pickupMessage": {
+                "stores": [
+                    {
+                        "storeEmail": "lincolnroad@apple.com",
+                        "storeName": "Lincoln Road",
+                        "reservationUrl": "http://www.apple.com/retail/lincolnroad",
+                        "makeReservationUrl": "http://www.apple.com/retail/lincolnroad",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R115.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Miami Beach",
+                        "storeNumber": "R115",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Available Today",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "available",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Order now. Pick up, in store:",
+                                        "storeSelectionEnabled": true,
+                                        "storePickupQuote": "Today",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Order now. Pick up, in store:",
+                                        "storeSelectionEnabled": true,
+                                        "storePickupQuote": "Today at Apple Lincoln Road",
+                                        "storePickupQuote2_0": "<span class=\"as-pickup-quote-availability-quote\">Today</span> at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Lincoln Road</button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "305-421 0400",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Lincoln Road",
+                            "address3": null,
+                            "address2": "1021 Lincoln Road",
+                            "postalCode": "33139"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/lincolnroad",
+                        "directionsUrl": "http://www.apple.com/retail/lincolnroad",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Mon-Sun:"
+                                }
+                            ]
+                        },
+                        "pickupEncodedUpperDateString": "20220920",
+                        "storelatitude": 25.79102,
+                        "storelongitude": -80.139364,
+                        "storedistance": 35.69,
+                        "storeDistanceWithUnit": "35.69 mi",
+                        "storeDistanceVoText": "35.69 mi from 33139",
+                        "retailStore": {
+                            "storeNumber": "R115",
+                            "storeUniqueId": "R115",
+                            "name": "Lincoln Road",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "305-421 0400",
+                            "email": "lincolnroad@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 25.79102,
+                            "longitude": -80.139364,
+                            "address": {
+                                "city": "Miami Beach",
+                                "companyName": "Apple Lincoln Road",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33139",
+                                "province": null,
+                                "state": "FL",
+                                "street": "1021 Lincoln Road",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "305-421 0400",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "0cf9f2ef-a130-46b7-8ca7-36aeddc62b61",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "305-421 0400",
+                                "correctionResult": null,
+                                "twoLineAddress": "1021 Lincoln Road,\nMiami Beach, FL, 33139",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/lincolnroad",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R115.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/lincolnroad",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Sun",
+                                    "voStoreDays": "Monday-Sunday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R115.png?resize=828:*&output-format=jpg",
+                            "distance": 35.69,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "35.69 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076231,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 25.79102,
+                                        "lon": -80.139364
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 5,
+                        "storeListNumber": 5,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 1
+                    },
+                    {
+                        "storeEmail": "bocaraton@apple.com",
+                        "storeName": "Boca Raton",
+                        "reservationUrl": "http://www.apple.com/retail/bocaraton",
+                        "makeReservationUrl": "http://www.apple.com/retail/bocaraton",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R074.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Boca Raton",
+                        "storeNumber": "R074",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Boca Raton",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Boca Raton<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "561-226 0270",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Boca Raton",
+                            "address3": null,
+                            "address2": "6000 Glades Road",
+                            "postalCode": "33431"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/bocaraton",
+                        "directionsUrl": "http://www.apple.com/retail/bocaraton",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-7:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.36569,
+                        "storelongitude": -80.13323,
+                        "storedistance": 4.08,
+                        "storeDistanceWithUnit": "4.08 mi",
+                        "storeDistanceVoText": "4.08 mi from 33431",
+                        "retailStore": {
+                            "storeNumber": "R074",
+                            "storeUniqueId": "R074",
+                            "name": "Boca Raton",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "561-226 0270",
+                            "email": "bocaraton@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.36569,
+                            "longitude": -80.13323,
+                            "address": {
+                                "city": "Boca Raton",
+                                "companyName": "Apple Boca Raton",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33431",
+                                "province": null,
+                                "state": "FL",
+                                "street": "6000 Glades Road",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "561-226 0270",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "c2ba6572-1e74-49f0-8373-99494e2f02d7",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "561-226 0270",
+                                "correctionResult": null,
+                                "twoLineAddress": "6000 Glades Road,\nBoca Raton, FL, 33431",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/bocaraton",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R074.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/bocaraton",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R074.png?resize=828:*&output-format=jpg",
+                            "distance": 4.08,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "4.08 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076230,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.36569,
+                                        "lon": -80.13323
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 1,
+                        "storeListNumber": 1,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 2
+                    },
+                    {
+                        "storeEmail": "thegalleria@apple.com",
+                        "storeName": "The Galleria",
+                        "reservationUrl": "http://www.apple.com/retail/thegalleria",
+                        "makeReservationUrl": "http://www.apple.com/retail/thegalleria",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R214.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Fort Lauderdale",
+                        "storeNumber": "R214",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple The Galleria",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple The Galleria<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "954-331 4501",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple The Galleria",
+                            "address3": null,
+                            "address2": "2388 E. Sunrise Boulevard",
+                            "postalCode": "33304"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/thegalleria",
+                        "directionsUrl": "http://www.apple.com/retail/thegalleria",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                },
+                                {
+                                    "storeTimings": "12:00 PM-6:00 PM",
+                                    "storeDays": "Sun:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.136827578461,
+                        "storelongitude": -80.114167249231,
+                        "storedistance": 11.94,
+                        "storeDistanceWithUnit": "11.94 mi",
+                        "storeDistanceVoText": "11.94 mi from 33304",
+                        "retailStore": {
+                            "storeNumber": "R214",
+                            "storeUniqueId": "R214",
+                            "name": "The Galleria",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "954-331 4501",
+                            "email": "thegalleria@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.136827578461,
+                            "longitude": -80.114167249231,
+                            "address": {
+                                "city": "Fort Lauderdale",
+                                "companyName": "Apple The Galleria",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33304",
+                                "province": null,
+                                "state": "FL",
+                                "street": "2388 E. Sunrise Boulevard",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "954-331 4501",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "cc63a155-63f0-4f2a-b0ed-7a363cf6c4ac",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "954-331 4501",
+                                "correctionResult": null,
+                                "twoLineAddress": "2388 E. Sunrise Boulevard,\nFort Lauderdale, FL, 33304",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/thegalleria",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R214.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/thegalleria",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "12:00 PM-6:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R214.png?resize=828:*&output-format=jpg",
+                            "distance": 11.94,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "11.94 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076231,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.136827578461,
+                                        "lon": -80.114167249231
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 2,
+                        "storeListNumber": 2,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 3
+                    },
+                    {
+                        "storeEmail": "wellingtongreen@apple.com",
+                        "storeName": "Wellington Green",
+                        "reservationUrl": "http://www.apple.com/retail/wellingtongreen",
+                        "makeReservationUrl": "http://www.apple.com/retail/wellingtongreen",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R024.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Wellington",
+                        "storeNumber": "R024",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Wellington Green",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Wellington Green<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "561-273 2940",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Wellington Green",
+                            "address3": null,
+                            "address2": "10300 W. Forest Hill Blvd",
+                            "postalCode": "33414"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/wellingtongreen",
+                        "directionsUrl": "http://www.apple.com/retail/wellingtongreen",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                },
+                                {
+                                    "storeTimings": "11:00 AM-6:00 PM",
+                                    "storeDays": "Sun:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.647028,
+                        "storelongitude": -80.208856,
+                        "storedistance": 23.79,
+                        "storeDistanceWithUnit": "23.79 mi",
+                        "storeDistanceVoText": "23.79 mi from 33414",
+                        "retailStore": {
+                            "storeNumber": "R024",
+                            "storeUniqueId": "R024",
+                            "name": "Wellington Green",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "561-273 2940",
+                            "email": "wellingtongreen@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.647028,
+                            "longitude": -80.208856,
+                            "address": {
+                                "city": "Wellington",
+                                "companyName": "Apple Wellington Green",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33414",
+                                "province": null,
+                                "state": "FL",
+                                "street": "10300 W. Forest Hill Blvd",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "561-273 2940",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "a776ac29-fa46-48ff-9da1-232fd6073069",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "561-273 2940",
+                                "correctionResult": null,
+                                "twoLineAddress": "10300 W. Forest Hill Blvd,\nWellington, FL, 33414",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/wellingtongreen",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R024.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/wellingtongreen",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R024.png?resize=828:*&output-format=jpg",
+                            "distance": 23.79,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "23.79 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076231,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.647028,
+                                        "lon": -80.208856
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 3,
+                        "storeListNumber": 3,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 4
+                    },
+                    {
+                        "storeEmail": "aventura@apple.com",
+                        "storeName": "Aventura",
+                        "reservationUrl": "http://www.apple.com/retail/aventura",
+                        "makeReservationUrl": "http://www.apple.com/retail/aventura",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R087.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Aventura",
+                        "storeNumber": "R087",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Aventura",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Aventura<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "305-914 9826",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Aventura",
+                            "address3": null,
+                            "address2": "19501 Biscayne Boulevard",
+                            "postalCode": "33180"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/aventura",
+                        "directionsUrl": "http://www.apple.com/retail/aventura",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-8:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 25.95825,
+                        "storelongitude": -80.141707,
+                        "storedistance": 24.13,
+                        "storeDistanceWithUnit": "24.13 mi",
+                        "storeDistanceVoText": "24.13 mi from 33180",
+                        "retailStore": {
+                            "storeNumber": "R087",
+                            "storeUniqueId": "R087",
+                            "name": "Aventura",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "305-914 9826",
+                            "email": "aventura@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 25.95825,
+                            "longitude": -80.141707,
+                            "address": {
+                                "city": "Aventura",
+                                "companyName": "Apple Aventura",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33180",
+                                "province": null,
+                                "state": "FL",
+                                "street": "19501 Biscayne Boulevard",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "305-914 9826",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "2b0d72bc-d308-47c9-aabb-1bdd7509fccb",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "305-914 9826",
+                                "correctionResult": null,
+                                "twoLineAddress": "19501 Biscayne Boulevard,\nAventura, FL, 33180",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/aventura",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R087.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/aventura",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R087.png?resize=828:*&output-format=jpg",
+                            "distance": 24.13,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "24.13 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076231,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 25.95825,
+                                        "lon": -80.141707
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 4,
+                        "storeListNumber": 4,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 5
+                    },
+                    {
+                        "storeEmail": "brickellcitycentre@apple.com",
+                        "storeName": "Brickell City Centre",
+                        "reservationUrl": "http://www.apple.com/retail/brickellcitycentre",
+                        "makeReservationUrl": "http://www.apple.com/retail/brickellcitycentre",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R623.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Miami",
+                        "storeNumber": "R623",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Brickell City Centre",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Brickell City Centre<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "786-8434350",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Brickell City Centre",
+                            "address3": null,
+                            "address2": "701 S. Miami Avenue",
+                            "postalCode": "33130"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/brickellcitycentre",
+                        "directionsUrl": "http://www.apple.com/retail/brickellcitycentre",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-7:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 25.7667,
+                        "storelongitude": -80.1935,
+                        "storedistance": 37.49,
+                        "storeDistanceWithUnit": "37.49 mi",
+                        "storeDistanceVoText": "37.49 mi from 33130",
+                        "retailStore": {
+                            "storeNumber": "R623",
+                            "storeUniqueId": "R623",
+                            "name": "Brickell City Centre",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "786-8434350",
+                            "email": "brickellcitycentre@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 25.7667,
+                            "longitude": -80.1935,
+                            "address": {
+                                "city": "Miami",
+                                "companyName": "Apple Brickell City Centre",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33130",
+                                "province": null,
+                                "state": "FL",
+                                "street": "701 S. Miami Avenue",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "786-8434350",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "abc003d5-481c-4a30-b2d6-6962e9cc04e4",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "786-8434350",
+                                "correctionResult": null,
+                                "twoLineAddress": "701 S. Miami Avenue,\nMiami, FL, 33130",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/brickellcitycentre",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R623.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/brickellcitycentre",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R623.png?resize=828:*&output-format=jpg",
+                            "distance": 37.49,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "37.49 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 25.7667,
+                                        "lon": -80.1935
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 6,
+                        "storeListNumber": 6,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 6
+                    },
+                    {
+                        "storeEmail": "thegardensmall@apple.com",
+                        "storeName": "The Gardens Mall",
+                        "reservationUrl": "http://www.apple.com/retail/thegardensmall",
+                        "makeReservationUrl": "http://www.apple.com/retail/thegardensmall",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R127.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Palm Beach Gardens",
+                        "storeNumber": "R127",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple The Gardens Mall",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple The Gardens Mall<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "561-273 2160",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple The Gardens Mall",
+                            "address3": null,
+                            "address2": "3101 PGA Boulevard",
+                            "postalCode": "33410"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/thegardensmall",
+                        "directionsUrl": "http://www.apple.com/retail/thegardensmall",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                },
+                                {
+                                    "storeTimings": "12:00 PM-6:00 PM",
+                                    "storeDays": "Sun:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.84865,
+                        "storelongitude": -80.0848,
+                        "storedistance": 37.57,
+                        "storeDistanceWithUnit": "37.57 mi",
+                        "storeDistanceVoText": "37.57 mi from 33410",
+                        "retailStore": {
+                            "storeNumber": "R127",
+                            "storeUniqueId": "R127",
+                            "name": "The Gardens Mall",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "561-273 2160",
+                            "email": "thegardensmall@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.84865,
+                            "longitude": -80.0848,
+                            "address": {
+                                "city": "Palm Beach Gardens",
+                                "companyName": "Apple The Gardens Mall",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33410",
+                                "province": null,
+                                "state": "FL",
+                                "street": "3101 PGA Boulevard",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "561-273 2160",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "79c8d72a-b3c2-49e9-b4b1-fb4f01fb221d",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "561-273 2160",
+                                "correctionResult": null,
+                                "twoLineAddress": "3101 PGA Boulevard,\nPalm Beach Gardens, FL, 33410",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/thegardensmall",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R127.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/thegardensmall",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "12:00 PM-6:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R127.png?resize=828:*&output-format=jpg",
+                            "distance": 37.57,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "37.57 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.84865,
+                                        "lon": -80.0848
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 7,
+                        "storeListNumber": 7,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 7
+                    },
+                    {
+                        "storeEmail": "dadeland@apple.com",
+                        "storeName": "Dadeland",
+                        "reservationUrl": "http://www.apple.com/retail/dadeland",
+                        "makeReservationUrl": "http://www.apple.com/retail/dadeland",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R312.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Miami",
+                        "storeNumber": "R312",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Dadeland",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Dadeland<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "305-341 9812",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Dadeland",
+                            "address3": null,
+                            "address2": "7535 Dadeland Mall",
+                            "postalCode": "33156"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/dadeland",
+                        "directionsUrl": "http://www.apple.com/retail/dadeland",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-7:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 25.689879,
+                        "storelongitude": -80.313707,
+                        "storedistance": 43.95,
+                        "storeDistanceWithUnit": "43.95 mi",
+                        "storeDistanceVoText": "43.95 mi from 33156",
+                        "retailStore": {
+                            "storeNumber": "R312",
+                            "storeUniqueId": "R312",
+                            "name": "Dadeland",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "305-341 9812",
+                            "email": "dadeland@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 25.689879,
+                            "longitude": -80.313707,
+                            "address": {
+                                "city": "Miami",
+                                "companyName": "Apple Dadeland",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33156",
+                                "province": null,
+                                "state": "FL",
+                                "street": "7535 Dadeland Mall",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "305-341 9812",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "ecf18391-d798-44fe-a777-d80e537b6cbe",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "305-341 9812",
+                                "correctionResult": null,
+                                "twoLineAddress": "7535 Dadeland Mall,\nMiami, FL, 33156",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/dadeland",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R312.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/dadeland",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R312.png?resize=828:*&output-format=jpg",
+                            "distance": 43.95,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "43.95 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 25.689879,
+                                        "lon": -80.313707
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 8,
+                        "storeListNumber": 8,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 8
+                    },
+                    {
+                        "storeEmail": "thefalls@apple.com",
+                        "storeName": "The Falls",
+                        "reservationUrl": "http://www.apple.com/retail/thefalls",
+                        "makeReservationUrl": "http://www.apple.com/retail/thefalls",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R012.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Miami",
+                        "storeNumber": "R012",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple The Falls",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple The Falls<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "305-234 4565",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple The Falls",
+                            "address3": null,
+                            "address2": "8888 SW 136th Street",
+                            "postalCode": "33176"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/thefalls",
+                        "directionsUrl": "http://www.apple.com/retail/thefalls",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-7:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Thu:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Fri-Sat:"
+                                }
+                            ]
+                        },
+                        "specialHours": {
+                            "specialHoursText": "Special store hours:",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "Sep 20:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "Sep 21:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "Sep 22:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "Sep 23:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "Sep 26:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "Sep 27:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                }
+                            ],
+                            "viewAllSpecialHours": true
+                        },
+                        "storelatitude": 25.643719563754,
+                        "storelongitude": -80.33814594377,
+                        "storedistance": 47.41,
+                        "storeDistanceWithUnit": "47.41 mi",
+                        "storeDistanceVoText": "47.41 mi from 33176",
+                        "retailStore": {
+                            "storeNumber": "R012",
+                            "storeUniqueId": "R012",
+                            "name": "The Falls",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "305-234 4565",
+                            "email": "thefalls@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 25.643719563754,
+                            "longitude": -80.33814594377,
+                            "address": {
+                                "city": "Miami",
+                                "companyName": "Apple The Falls",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33176",
+                                "province": null,
+                                "state": "FL",
+                                "street": "8888 SW 136th Street",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "305-234 4565",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "65f02472-a5d7-4e2d-90c7-534a52d254de",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "305-234 4565",
+                                "correctionResult": null,
+                                "twoLineAddress": "8888 SW 136th Street,\nMiami, FL, 33176",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/thefalls",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R012.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/thefalls",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Thu",
+                                    "voStoreDays": "Monday-Thursday",
+                                    "storeTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Fri-Sat",
+                                    "voStoreDays": "Friday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [
+                                {
+                                    "date": "Sep 20",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-8:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                },
+                                {
+                                    "date": "Sep 21",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-8:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                },
+                                {
+                                    "date": "Sep 22",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-8:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                },
+                                {
+                                    "date": "Sep 23",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-9:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                },
+                                {
+                                    "date": "Sep 26",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-8:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                },
+                                {
+                                    "date": "Sep 27",
+                                    "description": "Emergency",
+                                    "hours": "10:00 AM-8:00 PM",
+                                    "comments": null,
+                                    "closed": false
+                                }
+                            ],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R012.png?resize=828:*&output-format=jpg",
+                            "distance": 47.41,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "47.41 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 25.6437195637543,
+                                        "lon": -80.3381459437702
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 9,
+                        "storeListNumber": 9,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 9
+                    },
+                    {
+                        "storeEmail": "watersideshops@apple.com",
+                        "storeName": "Waterside Shops",
+                        "reservationUrl": "http://www.apple.com/retail/watersideshops",
+                        "makeReservationUrl": "http://www.apple.com/retail/watersideshops",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R169.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Naples",
+                        "storeNumber": "R169",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Waterside Shops",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Waterside Shops<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "239-254 4240",
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Waterside Shops",
+                            "address3": null,
+                            "address2": "5555 Tamiami Trail North",
+                            "postalCode": "34108"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/watersideshops",
+                        "directionsUrl": "http://www.apple.com/retail/watersideshops",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-5:00 PM",
+                                    "storeDays": "Sun:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-7:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.2132,
+                        "storelongitude": -81.8017,
+                        "storedistance": 102.89,
+                        "storeDistanceWithUnit": "102.89 mi",
+                        "storeDistanceVoText": "102.89 mi from 34108",
+                        "retailStore": {
+                            "storeNumber": "R169",
+                            "storeUniqueId": "R169",
+                            "name": "Waterside Shops",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "239-254 4240",
+                            "email": "watersideshops@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.2132,
+                            "longitude": -81.8017,
+                            "address": {
+                                "city": "Naples",
+                                "companyName": "Apple Waterside Shops",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "34108",
+                                "province": null,
+                                "state": "FL",
+                                "street": "5555 Tamiami Trail North",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "239-254 4240",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "b13cde12-a3d9-4ae6-8dc8-e4bf9c4c2bd1",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "239-254 4240",
+                                "correctionResult": null,
+                                "twoLineAddress": "5555 Tamiami Trail North,\nNaples, FL, 34108",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/watersideshops",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R169.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/watersideshops",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-5:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-7:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R169.png?resize=828:*&output-format=jpg",
+                            "distance": 102.89,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "102.89 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "CURBSIDE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.21344,
+                                        "lon": -81.80129
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": {
+                                            "en_US": "Curbside Pickup is located directly in front of our store, just to the north. Look for marked parking spaces."
+                                        }
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": {
+                                            "en_US": "Curbside Pickup is located directly in front of our store, just to the north. Look for marked parking spaces."
+                                        }
+                                    },
+                                    "type": "CURBSIDE"
+                                },
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.2132,
+                                        "lon": -81.8017
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 10,
+                        "storeListNumber": 10,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                },
+                                {
+                                    "pickupOptionTitle": "Curbside",
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "index": 2
+                                }
+                            ]
+                        },
+                        "rank": 10
+                    },
+                    {
+                        "storeEmail": "coconutpoint@apple.com",
+                        "storeName": "Coconut Point",
+                        "reservationUrl": "http://www.apple.com/retail/coconutpoint",
+                        "makeReservationUrl": "http://www.apple.com/retail/coconutpoint",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R185.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Estero",
+                        "storeNumber": "R185",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple Coconut Point",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple Coconut Point<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "239-949 8860",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple Coconut Point",
+                            "address3": null,
+                            "address2": "23151 Fashion Drive",
+                            "postalCode": "33928"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/coconutpoint",
+                        "directionsUrl": "http://www.apple.com/retail/coconutpoint",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "11:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Thu:"
+                                },
+                                {
+                                    "storeTimings": "10:00 AM-9:00 PM",
+                                    "storeDays": "Fri-Sat:"
+                                },
+                                {
+                                    "storeTimings": "12:00 PM-6:00 PM",
+                                    "storeDays": "Sun:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 26.402100590821,
+                        "storelongitude": -81.806635698069,
+                        "storedistance": 103.11,
+                        "storeDistanceWithUnit": "103.11 mi",
+                        "storeDistanceVoText": "103.11 mi from 33928",
+                        "retailStore": {
+                            "storeNumber": "R185",
+                            "storeUniqueId": "R185",
+                            "name": "Coconut Point",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "239-949 8860",
+                            "email": "coconutpoint@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 26.402100590821,
+                            "longitude": -81.806635698069,
+                            "address": {
+                                "city": "Estero",
+                                "companyName": "Apple Coconut Point",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "33928",
+                                "province": null,
+                                "state": "FL",
+                                "street": "23151 Fashion Drive",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "239-949 8860",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "a4e610a2-9953-4d2d-9ff9-baea901cb6f5",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "239-949 8860",
+                                "correctionResult": null,
+                                "twoLineAddress": "23151 Fashion Drive,\nEstero, FL, 33928",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/coconutpoint",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R185.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/coconutpoint",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Thu",
+                                    "voStoreDays": "Monday-Thursday",
+                                    "storeTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Fri-Sat",
+                                    "voStoreDays": "Friday-Saturday",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "12:00 PM-6:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R185.png?resize=828:*&output-format=jpg",
+                            "distance": 103.11,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "103.11 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 26.4021005908209,
+                                        "lon": -81.8066356980691
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 11,
+                        "storeListNumber": 11,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 11
+                    },
+                    {
+                        "storeEmail": "universitytowncenter@apple.com",
+                        "storeName": "University Town Center",
+                        "reservationUrl": "http://www.apple.com/retail/universitytowncenter",
+                        "makeReservationUrl": "http://www.apple.com/retail/universitytowncenter",
+                        "state": "FL",
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R615.png?resize=828:*&output-format=jpg",
+                        "country": "US",
+                        "city": "Sarasota",
+                        "storeNumber": "R615",
+                        "partsAvailability": {
+                            "MQ273LL/A": {
+                                "storePickEligible": true,
+                                "pickupSearchQuote": "Currently unavailable",
+                                "partNumber": "MQ273LL/A",
+                                "purchaseOption": "",
+                                "ctoOptions": "",
+                                "pickupDisplay": "unavailable",
+                                "pickupType": "In-Store Pickup",
+                                "messageTypes": {
+                                    "compact": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    },
+                                    "regular": {
+                                        "storeSearchEnabled": true,
+                                        "storePickupLabel": "Pickup:",
+                                        "storeSelectionEnabled": false,
+                                        "storePickupQuote": "Currently unavailable at Apple University Town Center",
+                                        "storePickupQuote2_0": "Currently unavailable at <button type=\"button\" class=\"rf-pickup-quote-overlay-trigger as-retailavailabilitytrigger-infobutton retail-availability-search-trigger as-buttonlink\" data-ase-overlay=\"buac-overlay\" data-ase-click=\"show\">Apple University Town Center<span class=\"visuallyhidden\">(Check Availability)</span></button>",
+                                        "storePickupLinkText": "Check availability",
+                                        "storePickupProductTitle": "iPhone 14 Pro 512GB Deep Purple"
+                                    }
+                                }
+                            }
+                        },
+                        "phoneNumber": "941-3584600",
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "address": {
+                            "address": "Apple University Town Center",
+                            "address3": null,
+                            "address2": "140 University Town Center Dr",
+                            "postalCode": "34243"
+                        },
+                        "hoursUrl": "http://www.apple.com/retail/universitytowncenter",
+                        "directionsUrl": "http://www.apple.com/retail/universitytowncenter",
+                        "storeHours": {
+                            "storeHoursText": "Store Hours",
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeTimings": "10:00 AM-8:00 PM",
+                                    "storeDays": "Mon-Sat:"
+                                },
+                                {
+                                    "storeTimings": "11:00 AM-6:00 PM",
+                                    "storeDays": "Sun:"
+                                }
+                            ]
+                        },
+                        "storelatitude": 27.38493,
+                        "storelongitude": -82.45268,
+                        "storedistance": 160.58,
+                        "storeDistanceWithUnit": "160.58 mi",
+                        "storeDistanceVoText": "160.58 mi from 34243",
+                        "retailStore": {
+                            "storeNumber": "R615",
+                            "storeUniqueId": "R615",
+                            "name": "University Town Center",
+                            "storeTypeKey": "1",
+                            "storeSubTypeKey": "0",
+                            "storeType": "APPLESTORE_DEFAULT",
+                            "phoneNumber": "941-3584600",
+                            "email": "universitytowncenter@apple.com",
+                            "carrierCode": null,
+                            "locationType": null,
+                            "latitude": 27.38493,
+                            "longitude": -82.45268,
+                            "address": {
+                                "city": "Sarasota",
+                                "companyName": "Apple University Town Center",
+                                "countryCode": "US",
+                                "county": null,
+                                "district": null,
+                                "geoCode": null,
+                                "label": null,
+                                "languageCode": "US-EN",
+                                "mailStop": null,
+                                "postalCode": "34243",
+                                "province": null,
+                                "state": "FL",
+                                "street": "140 University Town Center Dr",
+                                "street2": null,
+                                "street3": null,
+                                "suburb": null,
+                                "type": "SHIPPING",
+                                "addrSourceType": null,
+                                "outsideCityFlag": null,
+                                "daytimePhoneAreaCode": null,
+                                "eveningPhoneAreaCode": null,
+                                "daytimePhone": "941-3584600",
+                                "fullPhoneNumber": null,
+                                "eveningPhone": null,
+                                "emailAddress": null,
+                                "firstName": null,
+                                "lastName": null,
+                                "suffix": null,
+                                "lastNamePhonetic": null,
+                                "firstNamePhonetic": null,
+                                "title": null,
+                                "businessAddress": false,
+                                "uuid": "2a8e2a6e-d7b3-4a03-bff7-b692491c4a4e",
+                                "mobilePhone": null,
+                                "mobilePhoneAreaCode": null,
+                                "cityStateZip": null,
+                                "daytimePhoneSelected": false,
+                                "middleName": null,
+                                "residenceStatus": null,
+                                "moveInDate": null,
+                                "subscriberId": null,
+                                "locationType": null,
+                                "carrierCode": null,
+                                "metadata": {},
+                                "verificationState": "UN_VERIFIED",
+                                "expiration": null,
+                                "markForDeletion": false,
+                                "primaryAddress": false,
+                                "fullEveningPhone": null,
+                                "fullDaytimePhone": "941-3584600",
+                                "correctionResult": null,
+                                "twoLineAddress": "140 University Town Center Dr,\nSarasota, FL, 34243",
+                                "addressVerified": false
+                            },
+                            "urlKey": null,
+                            "directionsUrl": "http://www.apple.com/retail/universitytowncenter",
+                            "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R615.png?resize=828:*&output-format=jpg",
+                            "makeReservationUrl": null,
+                            "hoursAndInfoUrl": "http://www.apple.com/retail/universitytowncenter",
+                            "storeHours": [
+                                {
+                                    "storeDays": "Mon-Sat",
+                                    "voStoreDays": "Monday-Saturday",
+                                    "storeTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun",
+                                    "voStoreDays": "Sunday",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                }
+                            ],
+                            "storeHolidays": [],
+                            "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R615.png?resize=828:*&output-format=jpg",
+                            "distance": 160.58,
+                            "distanceUnit": "mi",
+                            "distanceWithUnit": "160.58 mi",
+                            "timezone": "America/New_York",
+                            "storeIsActive": true,
+                            "lastUpdated": 0,
+                            "lastFetched": 1663702076232,
+                            "dateStamp": "20-Sep-2022",
+                            "distanceSeparator": ".",
+                            "nextAvailableDate": null,
+                            "storeHolidayLookAheadWindow": 7,
+                            "driveDistanceWithUnit": null,
+                            "driveDistanceInMeters": null,
+                            "dynamicAttributes": {},
+                            "storePickupMethodByType": {
+                                "INSTORE": {
+                                    "services": [
+                                        "APU"
+                                    ],
+                                    "typeCoordinate": {
+                                        "lat": 27.38493,
+                                        "lon": -82.45268
+                                    },
+                                    "typeDirection": {
+                                        "directionByLocale": null
+                                    },
+                                    "typeMeetupLocation": {
+                                        "meetingLocationByLocale": null
+                                    },
+                                    "type": "INSTORE"
+                                }
+                            },
+                            "storeTimings": null,
+                            "availableNow": true
+                        },
+                        "storelistnumber": 12,
+                        "storeListNumber": 12,
+                        "pickupOptionsDetails": {
+                            "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "pickupOptionTitle": "In-Store",
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "index": 1
+                                }
+                            ]
+                        },
+                        "rank": 12
+                    }
+                ],
+                "overlayInitiatedFromWarmStart": false,
+                "viewMoreHoursLinkText": "View more hours",
+                "storesCount": "12 stores found near 33442",
+                "little": false,
+                "location": "33442",
+                "notAvailableNearby": "Not available today at [X] nearest stores.",
+                "notAvailableNearOneStore": "Not available today at the nearest store.",
+                "warmDudeWithAPU": false,
+                "viewMoreHoursVoText": "(Opens in a new window)",
+                "availability": {
+                    "isComingSoon": false
+                },
+                "viewDetailsText": "View details",
+                "availabilityStores": "R012,R024,R074,R087,R115,R127,R169,R185,R214,R312,R615,R623",
+                "legendLabelText": "Stores",
+                "filteredTopStore": false
+            },
+            "deliveryMessage": {
+                "geoLocated": false,
+                "availableOptionsText": "Available Options",
+                "MQ273LL/A": {
+                    "compact": {
+                        "label": "Delivers:",
+                        "quote": "Oct 19 - Oct 26",
+                        "address": {
+                            "postalCode": "33442-9257"
+                        },
+                        "showDeliveryOptionsLink": false,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MQ273",
+                        "commitCodeId": "300",
+                        "subHeader": "For iPhone 14 Pro 512GB Deep Purple",
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    },
+                    "regular": {
+                        "orderByDeliveryBy": "Order today, delivers:",
+                        "deliveryOptionMessages": [
+                            {
+                                "displayName": "Oct 19 - Oct 26 — Free",
+                                "inHomeSetup": "false",
+                                "encodedUpperDateString": "20221026"
+                            }
+                        ],
+                        "deliveryOptions": [
+                            {
+                                "displayName": "Standard Delivery",
+                                "date": "Oct 19 - Oct 26",
+                                "shippingCost": "Free",
+                                "additionalContent": null
+                            }
+                        ],
+                        "deliveryOptionsLink": {
+                            "text": "Delivery options for 33442",
+                            "dataVar": {},
+                            "newTab": false
+                        },
+                        "address": {
+                            "postalCode": "33442-9257"
+                        },
+                        "showDeliveryOptionsLink": true,
+                        "messageType": "Delivery",
+                        "basePartNumber": "MQ273",
+                        "commitCodeId": "300",
+                        "subHeader": "For iPhone 14 Pro 512GB Deep Purple",
+                        "defaultLocationEnabled": false,
+                        "idl": false,
+                        "inHomeSetup": false,
+                        "isElectronic": false,
+                        "isBuyable": true
+                    }
+                },
+                "geoEnabled": true,
+                "deliveryLocationLink": {
+                    "text": "33442",
+                    "dataVar": {},
+                    "newTab": false
+                },
+                "dudeCookieSet": true,
+                "processing": "",
+                "contentloaded": "",
+                "deliveryLocationLabel": "Your delivery location:",
+                "dudeLocated": true,
+                "locationCookieValueFoundForThisCountry": true,
+                "accessibilityDeliveryOptions": "delivery options"
+            }
+        }
+    }
+}
